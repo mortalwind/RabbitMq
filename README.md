@@ -1,0 +1,2 @@
+# RabbitMq
+Simple queue sample
